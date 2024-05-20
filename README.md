@@ -1,3 +1,5 @@
+# GPT Store Mining and Analysis
+This repository contains materials from the paper *GPT Store Mining and Analysis*.
 ## Directory structure
 ```
 .
