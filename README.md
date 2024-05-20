@@ -45,7 +45,7 @@ RQ1 delves into the categorization of GPTs across the official GPT store launche
 
 Within the [RQ1_gptstore_data](RQ1_gptstore_data) folder:
 - [gptstore_ai_data.xlsx](RQ1_gptstore_data/gptstore_ai_data.xlsx) captures data from the third-party GPTs website [gptstore.ai](https://gptstore.ai) as of March 27th. The data includes counts and percentages of GPTs across different categories. Additionally, the spreadsheet provides detailed information on 170,697 GPTs listed, including their name, description, logo, URL, and conversion count.
-- [categories_gpts_3.27](RQ1_gptstore_data/categories_gpts_3.27.xlsx) records the categorization of GPTs on three third-party websites: [gptsapp.io](https://gptsapp.io), [gptstore.ai](https://gptstore.ai), and [gptshunter.com](https://gptshunter.com).
+- [categories_gpts_3.27.xlsx](RQ1_gptstore_data/categories_gpts_3.27.xlsx) records the categorization of GPTs on three third-party websites: [gptsapp.io](https://gptsapp.io), [gptstore.ai](https://gptstore.ai), and [gptshunter.com](https://gptshunter.com).
 
 Additionally, we provide a straightforward Python script named [spider.py](RQ1_gptstore_data/spider.py) that is capable of performing automated web scraping operations. The script utilizes the Python `requests` library to send HTTP requests and handles responses with a concurrent execution strategy using `ThreadPoolExecutor` from the `concurrent.futures` module. This tool has built-in retry logic for failed requests and implements random delays to minimize the risk of being blocked by the target server. The [response.json](RQ1_gptstore_data/response.json) provides an example of the data extracted.
 
