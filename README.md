@@ -3,6 +3,7 @@ This repository contains materials from the paper *GPT Store Mining and Analysis
 ## Content
 - [GPT Store Mining and Analysis](#gpt-store-mining-and-analysis)
   * [Directory structure](#directory-structure)
+  * [Abstract](#abstract)
   * [RQ1: GPT Store’s topic categories.](#rq1--gpt-store-s-topic-categories)
   * [RQ2: Factors influencing featured GPTs in the GPT Store.](#rq2--factors-influencing-featured-gpts-in-the-gpt-store)
   * [RQ3：Security risks associated with the GPT Store.](#rq3-security-risks-associated-with-the-gpt-store)
@@ -36,6 +37,9 @@ This repository contains materials from the paper *GPT Store Mining and Analysis
 ├── RQ3_security_vulnerabilities
 │   └── Security_Vulnerabilities_in_GPTs.xlsx    # List of security vulnerabilities in GPTs
 ```
+## Abstract
+As a pivotal extension of the renowned ChatGPT, the GPT Store serves as a dynamic marketplace for various Generative Pre-trained Transformer (GPT) models, shaping the frontier of conversational AI. This paper presents an in-depth measurement study of the GPT Store, with a focus on the categorization of GPTs by topic, factors influencing GPT popularity, and the potential security risks. Our investigation starts with assessing the categorization of GPTs in the GPT Store, analyzing how they are organized by topics, and evaluating the effectiveness of the classification system. We then examine the factors that affect the popularity of specific GPTs, looking into user preferences, algorithmic influences, and market trends. Finally, the study delves into the security risks of the GPT Store, identifying potential threats and evaluating the robustness of existing security measures. This study offers a detailed overview of the GPT Store's current state, shedding light on its operational dynamics and user interaction patterns. Our findings aim to enhance understanding of the GPT ecosystem, providing valuable insights for future research, development, and policy-making in generative AI.
+
 ## RQ1: GPT Store’s topic categories
 RQ1 delves into the categorization of GPTs across the official GPT store launched by OpenAI and three third-party GPT stores: GPTs Hunter, GPTStore.AI, and GPTs App. The objective is to analyze and evaluate how GPT apps (i.e., GPTs) are classified by topic, assessing the effectiveness of these classification schemes in facilitating user discovery and app selection. 
 
