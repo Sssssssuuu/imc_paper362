@@ -6,7 +6,8 @@ This repository contains materials from the paper *GPT Store Mining and Analysis
 ├── RQ1_gptstore_data
 │   ├── categories_gpts_3.27.xlsx                # The GPT classification in the third-party GPT Store on March 27th
 │   ├── gptstore_ai_data.xlsx                    # The GPT classification and detailed data in gptstore.ai on March 27th
-│   └── spider.py                                # Example of a web spider
+│   ├── spider.py                                # Example of a web spider
+│   └── response.json                            # An example of a web sipder result
 ├── RQ2_top1000                                  # Detailed data of Top 1000 GPTs in various categories on March 17th
 │   ├── 317_top_1000_dalle.xlsx
 │   ├── 317_top_1000_education.xlsx
