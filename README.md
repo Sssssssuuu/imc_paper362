@@ -1,4 +1,4 @@
-## Directory description
+## Directory structure
 ```
 .
 ├── RQ1_gptstore_data
