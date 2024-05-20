@@ -44,6 +44,8 @@ In the `RQ2_top1000` folder, we present the data of the top 1000 GPTs from each 
 
 In the `RQ2_top500` folder, we display the data for the top 500 GPTs from each category based on dialogue volume, covering the period from March 9th to March 15th. The dataset includes each GPT's ID, name, chat volume, categories, average review score, and total review count.
 
+In the correlation_analysis.py file, we compute and compare the Spearman correlation coefficients between rankings and review counts across various categories, visualizing the outcomes with box plots.
+
 ## RQ3：Security risks associated with the GPT Store.
 The emergence of the GPT Store as a prominent AI marketplace also raises concerns about potential security risks. RQ3 explores the various security challenges that the platform faces, ranging from the misuse of GPTs for malicious purposes to vulnerabilities in user data protection. This exploration includes analyzing the store's current security measures, identifying potential loopholes, and assessing the overall risk landscape. We aim to provide a comprehensive understanding of these risks and to offer recommendations for enhancing the platform's security.
 
