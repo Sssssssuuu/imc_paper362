@@ -15,7 +15,8 @@ This repository contains materials from the paper *GPT Store Mining and Analysis
 │   ├── 317_top_1000_productivity.xlsx
 │   ├── 317_top_1000_programming.xlsx
 │   ├── 317_top_1000_research.xlsx
-│   └── 317_top_1000_writting.xlsx
+│   ├── 317_top_1000_writting.xlsx
+│   └── correlation_analysis.py                  # Box plots
 ├── RQ2_top500                                   # Detailed data of Top 500 GPTs from March 9th to March 15th
 │   ├── 309_top500_raw.json
 │   ├── 310_top500_raw.json
