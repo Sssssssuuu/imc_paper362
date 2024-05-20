@@ -1,5 +1,11 @@
 # GPT Store Mining and Analysis
 This repository contains materials from the paper *GPT Store Mining and Analysis*.
+## Content
+- [GPT Store Mining and Analysis](#gpt-store-mining-and-analysis)
+  * [Directory structure](#directory-structure)
+  * [RQ1: GPT Store’s topic categories.](#rq1--gpt-store-s-topic-categories)
+  * [RQ2: Factors influencing featured GPTs in the GPT Store.](#rq2--factors-influencing-featured-gpts-in-the-gpt-store)
+  * [RQ3：Security risks associated with the GPT Store.](#rq3-security-risks-associated-with-the-gpt-store)
 ## Directory structure
 ```
 .
