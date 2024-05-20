@@ -33,7 +33,7 @@ This repository contains materials from the paper *GPT Store Mining and Analysis
 ## RQ1: GPT Store’s topic categories.
 RQ1 delves into the categorization of GPTs across the official GPT store launched by OpenAI and three third-party GPT stores: GPTs Hunter, GPTStore.AI, and GPTs App. The objective is to analyze and evaluate how GPT apps (i.e., GPTs) are classified by topic, assessing the effectiveness of these classification schemes in facilitating user discovery and app selection. 
 
-Within the `RQ1_gptstore_data` folder:
+Within the `[RQ1_gptstore_data](RQ1_gptstore_data)` folder:
 - `gptstore_ai_data.xlsx` captures data from the third-party GPTs website [gptstore.ai](https://gptstore.ai) as of March 27th. The data includes counts and percentages of GPTs across different categories. Additionally, the spreadsheet provides detailed information on 170,697 GPTs listed, including their name, description, logo, URL, and conversion count.
 - `categories_gpts_3.27` records the categorization of GPTs on three third-party websites: [gptsapp.io](https://gptsapp.io), [gptstore.ai](https://gptstore.ai), and [gptshunter.com](https://gptshunter.com).
 
